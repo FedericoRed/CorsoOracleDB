@@ -3,7 +3,7 @@
 
 ```
 per vedere i container: docker ps
-stoppare container: docker stop 'CONTAINER ID'
+stoppare container: docker stop CONTAINER ID
 ```
 
 
