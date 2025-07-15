@@ -1,10 +1,14 @@
 # CorsoOracleDB
-## Comandi docker
+##docker
+
+**Comandi per vedere i container ATTIVI:
+```
+docker ps
+```
+**Comandi docker per stoppare i container
 
 ```
-per vedere i container: docker ps
-stoppare container: docker stop CONTAINER ID
+docker stop CONTAINER ID
 ```
-
 
 corso db oracle, academy
