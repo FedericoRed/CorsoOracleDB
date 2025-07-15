@@ -1,7 +1,7 @@
 # CorsoOracleDB
 ## docker
 
-** Comandi per vedere i container ATTIVI**
+**Comandi per vedere i container ATTIVI**
 ```
 docker ps
 ```
