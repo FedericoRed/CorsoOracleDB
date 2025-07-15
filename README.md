@@ -12,7 +12,7 @@ docker ps
 docker stop CONTAINER ID
 ```
 
-##Oracle db
+## Oracle db
 
 **Comando installazione oracle**
 
