@@ -20,5 +20,11 @@ docker stop CONTAINER ID
 docker run -d -p 1521:1521 -e ORACLE_PASSWORD=wow123456 gvenzl/oracle-free
 ```
 
+**OSSERVAZIONI DB ORACLE**
+
+```
+I NOMI DEVONO ESSERE MAIUSCOLI
+```
+
 
 corso db oracle, academy
